@@ -1,0 +1,18 @@
+{
+  "name": "drawing-help",
+  "version": "0.0.0",
+  "authors": [
+    "Steven Farthing <sfarthin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixastic": "https://github.com/jseidelin/pixastic"
+  }
+}

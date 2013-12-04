@@ -1,0 +1,14 @@
+{
+  "name": "pixastic",
+  "_cacheHeaders": {
+    "ETag": "\"120101a9556ed9f47c2fca9dbe273729\"",
+    "Content-Length": "37558",
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "_release": "e-tag:120101a95",
+  "main": "index",
+  "_source": "https://github.com/jseidelin/pixastic",
+  "_target": "*",
+  "_originalSource": "https://github.com/jseidelin/pixastic",
+  "_direct": true
+}
